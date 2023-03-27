@@ -21,3 +21,10 @@ function getArr(n) {
 // }
 
 console.log(getArr(10))
+
+
+// let arr = []
+// for (let i = 1; i < 10; i++) {
+//     arr.push( `${i}`.repeat(i) ) ;
+// }
+// console.log(arr);

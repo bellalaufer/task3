@@ -4,7 +4,6 @@
 
 
 function cutOutNum(arr, a, b) {
-    //let filtered = arr.filter(el => el === a || el === b)
 
     for (let i = arr.length - 1; i >= 0; i--) {
         if (arr[i] === a || arr[i] === b)
